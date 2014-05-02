@@ -1,0 +1,11 @@
+POX is a networking software platform written in Python
+PEX is the POX Experimental components repository
+
+Basically, PEX is a (possibly temporary) home for things which aren't
+ready for prime time POX, but might be useful to others.
+
+Things in PEX may well not work.  They may be broken, dated, or
+otherwise hazardous to your health.  They are usually developed atop
+the current development branch of POX.
+
+Good luck!
